@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'yekan';
+    src:url('../fonts/BYekan.eot?#') format('eot'),    
+        url('../fonts/BYekan.woff') format('woff'),
+        url('../fonts/BYekan.ttf') format('truetype'); 
+}
+
+
+body{
+    font-family: yekan !important;
+}
+
+#sidebar+#main-content{
+    margin-right: 250px;
+    margin-left: 0px;
+}
+
+.box .box-title .box-tool{
+    float: left !important;
+}
+
+.box .box-title h3>i {
+    margin-left: 10px;
+    margin-right: 0px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: yekan;
+}
+
+.page-title{
+    padding: 0px 20px;
+}
+
+.fa.fa-indent{
+    margin-left: 5px;
+}
+
+a{
+    color: #5E61A8;
+}
+
+.switcher {
+    float: left;
+}
+
+fa fa-home fa-4{
+    float: right;
+}
+
+.recent-grid{
+    padding-bottom: 10px;
+}
+
+.property-contract-type{
+    font-weight: normal;
+}
+
+.btn-readmorepoperty{
+    width: 100%;
+}
+
+.fa.fa-home.fa-4{
+    margin-left: 10px;
+}
+
+.info_list .info-title {
+    float: right;
+    font-weight: normal;
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.info_list .info-content {
+    float: right;
+    font-size: 16px;
+    color: #11556B;
+}
+
+.divider {
+    border-bottom: 1px solid #E6E6E6;
+    margin: 5px 0px;
+    clear: both;
+    padding-bottom: 6px;
+}
+
+.share-option {
+    padding: 13px;
+    border-right: 1px solid #ccc;
+}
+
+.homemarinholder{
+    margin-top: 0px;
+    border-top: 3px solid #816D8F;
+    padding-bottom: 20px;
+}
+
+.nav-pills.nav-stacked>li>a
+{
+    font-size:18px;
+}
+
+.navbar-inverse .navbar-nav > li > a,
+.navbar-inverse .navbar-nav > .open ul > a
+{
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.view-more{
+    background-color: #F0F0F0;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    padding: 10px;
+}
+.view-more.a{
+    color: #207ADB;
+}
+.view-more:before {
+    margin-right: auto;
+}
+
+.view-more:before,
+.view-more:after {
+    position: initial;
+    top: auto;
+    overflow: auto;
+    width: auto;
+    height: auto;
+    content: '';
+    background-color: none;
+}
+
+.property-amenities ul li.cross,
+.property-amenities ul li.checked
+{
+    background-position: right center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.property-amenities ul li{
+    font-size: 16px;
+}
+.property-amenities ul li img{
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.property-meta-list .list-group-item .last
+{
+    border-left: 0 none;
+    border-right: auto;
+}
+
+.property-meta-list .list-group-item .titles {
+    border-left: 1px solid #ccc;
+    border-right: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    font-family: yekan, tahoma !important;
+}
+
+.detail-title {
+    font-weight: normal;
+    font-size: 22px;
+    padding-bottom: 13px;
+}
+
+.recent-grid{
+    font-weight: normal;
+    font-size: 22px;
+    padding-bottom: 13px;
+}
+
+
+.switcher * {
+    margin-right: 8px;
+}
+
+.switcher .view-type  {
+    margin-top: 5px;
+}
+
+.navbar-inverse .navbar-brand img{
+    margin-top: -13px;
+}
+
+
+.switcher .active {
+    color: #FF0606 !important;
+}
+
+
+.switcher i {
+    color: #000000 !important;
+}
+
+
+.amlak-lists th{
+    font-size: 12px;
+    font-weight: normal;
+    text-align: center;
+}
+
+.amlak-lists .btn-readmorepoperty {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+
+.home-address{
+    font-size: 13px;
+}
+
+
+.widget.our-agents .agent .image{
+    float: right;
+    margin-left: 8px;
+    width: 60px;
+    margin-right: -8px;
+}
+
+.widget-listing .property-header {
+    width: 40%;
+    float: right;
+    margin-left: 8px;
+}
+
+
+.widget-listing .caption {
+    float: left;
+    width: 50%;
+} 

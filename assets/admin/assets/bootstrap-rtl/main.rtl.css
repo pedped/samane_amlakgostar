@@ -1,0 +1,69 @@
+@media(max-width:767px) {
+    #sidebar+#main-content{
+        margin-right: 0px !important;
+    }
+}
+
+
+@font-face {
+    font-family: 'yekan';
+    src:url('../fonts/BYekan.eot?#') format('eot'),    
+        url('../fonts/BYekan.woff') format('woff'),
+        url('../fonts/BYekan.ttf') format('truetype'); 
+}
+
+
+body{
+    font-family: yekan !important;
+}
+
+#sidebar+#main-content{
+    margin-right: 250px;
+    margin-left: 0px;
+}
+
+.box .box-title .box-tool{
+    float: left !important;
+}
+
+.box .box-title h3>i {
+    margin-left: 10px;
+    margin-right: 0px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: yekan;
+}
+
+.page-title{
+    padding: 0px 20px;
+}
+
+
+#sidebar.sidebar-collapsed+#main-content {
+    margin-left: 0px;
+    margin-right: 43px;
+}
+
+.nav-list>li .submenu>li>a,
+.nav-list>li .submenu>li>span,
+.nav-list>li .submenu>li>ul>li>a{
+    padding: 8px 43px 8px 0px;
+}
+
+.facilities li{
+    float: right !important;
+    margin-left: 20px;
+    margin-right: 20px !important;
+    margin-top: 20px;
+}
+
+
+.dropdown-menu.pull-left{
+    left: 12px;
+}
